@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Helge J. Zöllner, PhD - MRS/MRI researcher, open-source software developer, Osprey enthusiast
+title: Helge J. Zöllner, PhD
 email: hzoelln2@jhmi.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  MRS/MRI researcher, software developer, Osprey enthusiast.
+  MRS/MRI researcher, open-source software developer, Osprey enthusiast.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HelgeZollner
