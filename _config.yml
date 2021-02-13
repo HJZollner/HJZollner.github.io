@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Helge J. Zöllner, PhD
+title: Helge J. Zöllner, PhD - MRS/MRI researcher, open-source software developer, Osprey enthusiast
 email: hzoelln2@jhmi.edu
 description: >- # this means to ignore newlines until "baseurl:"
   MRS/MRI researcher, software developer, Osprey enthusiast.
