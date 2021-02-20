@@ -28,7 +28,7 @@ twitter_username: HelgeZollner
 github_username:  HJZollner
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 minima:
   skin: dark
 plugins:
