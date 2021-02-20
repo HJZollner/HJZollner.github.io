@@ -28,7 +28,8 @@ twitter_username: HelgeZollner
 github_username:  HJZollner
 
 # Build settings
-theme: midnight
+theme: minima:
+          skin: dark
 plugins:
   - jekyll-feed
 
