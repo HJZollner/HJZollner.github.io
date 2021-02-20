@@ -28,7 +28,7 @@ twitter_username: HelgeZollner
 github_username:  HJZollner
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: midnight
 plugins:
   - jekyll-feed
 
