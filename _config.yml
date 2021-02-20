@@ -31,6 +31,7 @@ github_username:  HJZollner
 theme: minima
 minima:
   skin: dark
+  date_format: "%b %-d, %Y"
 plugins:
   - jekyll-feed
 
