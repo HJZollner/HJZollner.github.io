@@ -1,6 +1,6 @@
 var store = [{
         "title": "Inital post",
-        "excerpt":"#You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
+        "excerpt":"Hi! I’ll use this blog to include announce new changes to Osprey and SpecVis as well as recent updates in the research I’m invovled in. ","categories": ["jekyll","update"],
         "tags": [],
         "url": "/jekyll/update/2021/02/20/Osprey-Updates-02.html"
       }]
