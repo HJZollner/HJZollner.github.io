@@ -6,4 +6,6 @@ categories: jekyll update
 ---
 Hi!
 
-I'll use this blog to include announce new changes to Osprey and SpecVis as well as recent updates in the research I'm invovled in.
+I'll use this blog to include announce new changes to Osprey and SpecVis as well as recent updates iabout my research.
+
+Helge
