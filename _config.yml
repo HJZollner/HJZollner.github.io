@@ -29,6 +29,7 @@ github_username:  HJZollner
 
 # Build settings
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
+skin: night
 plugins:
   - jekyll-feed
 
