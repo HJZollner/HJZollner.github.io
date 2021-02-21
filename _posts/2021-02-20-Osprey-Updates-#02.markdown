@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Osprey Updates #001"
+title:  "Inital post"
 date:   2021-02-20 18:18:00 -0500
 categories: jekyll update
 ---
@@ -27,4 +27,7 @@ categories: jekyll update
 #[jekyll-docs]: https://jekyllrb.com/docs/home
 #[jekyll-gh]:   https://github.com/jekyll/jekyll
 #[jekyll-talk]: https://talk.jekyllrb.com/
-The current state of Osprey will be updated here.
+
+Hi!
+
+I'll use this blog to include announce new changes to Osprey and SpecVis as well as recent updates in the research I'm invovled in. 
