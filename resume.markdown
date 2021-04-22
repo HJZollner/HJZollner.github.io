@@ -2,4 +2,6 @@
 layout: page
 title: Resume
 ---
-Recent [CV]({{ site.url }}/_data/CV_HZ.pdf) for direct download.
+Most recent CV:
+
+ {% pdf "/_data/pdf/CV_HZ.pdf" %}
