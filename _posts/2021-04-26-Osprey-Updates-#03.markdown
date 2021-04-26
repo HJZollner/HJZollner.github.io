@@ -2,9 +2,10 @@
 layout: post
 title:  "MRSinMRS markdown in Osprey"
 date:   2021-04-26 18:00:00 -0500
-categories: Osprey update
-tags: Osprey open-source open-science
+categories: [Osprey-update, open-source, open-science]
 ---
+{{page.categories | capitalize | join: ', '}}
+
 Dear MRS community,
 
 we are happy to announce a new module in Osprey that automatically creates a table following the consensus recommendations. The output format is markdown which allows opening in any text editor independently of your OS. The final document can easily be used to generate a PDF to attach for publication.
