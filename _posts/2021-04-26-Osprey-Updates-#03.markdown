@@ -2,7 +2,8 @@
 layout: post
 title:  "MRSinMRS markdown in Osprey"
 date:   2021-04-26 18:00:00 -0500
-categories: [Osprey-update, open-source, open-science]
+categories: Osprey update
+tags: Osprey open-source open-science
 ---
 Dear MRS community,
 
