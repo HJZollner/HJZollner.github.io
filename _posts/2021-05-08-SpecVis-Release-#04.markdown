@@ -2,7 +2,7 @@
 layout: post
 title:  "SpecVis v.1.0.0 Release"
 date:   2021-05-08 15:00:00 -0500
-cover_image: https://github.com/HJZollner/SpecVis/blob/master/Logo.png
+cover_image: assets/Logo.png
 categories: SpecVis update
 tags: SpecVis open-source open-science
 ---
