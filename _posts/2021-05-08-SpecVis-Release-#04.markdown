@@ -6,7 +6,7 @@ categories: SpecVis update
 tags: SpecVis open-source open-science
 ---
 
-![SpecVis](/assets/images/Logo.gif)
+![SpecVis](/assets/images/Logo.png)
 
 I'm happy to announce the release of SpecVis v.1.0.0 today. This R repository includes a number of functions to create reproducible and information rich plots for transparent data reporting.
 
