@@ -28,7 +28,7 @@ twitter_username: HelgeZollner
 github_username:  HJZollner
 
 # Build settings
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: "sujaykundu777/devlopr-jekyll"
 plugins:
   - jekyll-feed
   - jekyll-pdf-embed
