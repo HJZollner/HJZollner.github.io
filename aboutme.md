@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My research as postdoctoral fellow is focused on the detection of brain metabolites using conventional and edited magnetic resonance spectroscopy. My particular interest is to develop and standardize methods to detect low-concentration metabolites, such as the main inhibitory neurotransmitter GABA, ascorbate, glutamine, and glutathione. I am part of [Richard Edden's lab](http://www.gabamrs.com/) at The Johns Hopkins University.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have also been involved in various studies applying those methods to investigate metabolic changes in the healthy and diseased brain. These studies were focused on hepatic encephalopathy, Parkinson’s Disease, and Fibromyalgia.
 
-What else do you need?
+Recently I have worked together with my mentor [Georg Oeltzschner](https://www.specfitlab.com/) on the development of his open-source MRS data analysis toolbox Osprey. This project is focused on the standardization of processing and quantification of MRS data, as well as investigating the performance of the underlying algorithms to better understand the modelling process. During this effort I did also develop an R-based open-source toolbox for transparent data visualization SpecVis.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+This is the base Jekyll theme:
+[jekyll](https://jekyllrb.com/)
+[basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)

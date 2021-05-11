@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 5.0.0 | Copyright Dean Attali 2020 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  <title>MRSinMRS markdown in Osprey</title>
+
+  
+  <meta name="author" content="Helge J. Zöllner, PhD">
+  
+
+  <meta name="description" content="Dear MRS community, we are happy to announce a new module in Osprey that automatically creates a table following the consensus recommendations. The output format is markdown which allows opening in any text editor independently of your OS. The final document can easily be used to generate a PDF to...">
+
+  
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Helge J. Zöllner, PhD" href="/feed.xml">
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="Helge J. Zöllner, PhD">
+  <meta property="og:title" content="MRSinMRS markdown in Osprey">
+  <meta property="og:description" content="Dear MRS community, we are happy to announce a new module in Osprey that automatically creates a table following the consensus recommendations. The output format is markdown which allows opening in any text editor independently of your OS. The final document can easily be used to generate a PDF to...">
+
+  
+  <meta property="og:image" content="/assets/img/HZ.jpg">
+  
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:article:author" content="Helge J. Zöllner, PhD">
+  <meta property="og:article:published_time" content="2021-04-26T19:00:00-04:00">
+  <meta property="og:url" content="/2021-04-26-Osprey-Updates-03/">
+  <link rel="canonical" href="/2021-04-26-Osprey-Updates-03/">
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  
+  <meta name="twitter:site" content="@HelgeZollner">
+  <meta name="twitter:creator" content="@HelgeZollner">
+
+  <meta property="twitter:title" content="MRSinMRS markdown in Osprey">
+  <meta property="twitter:description" content="Dear MRS community, we are happy to announce a new module in Osprey that automatically creates a table following the consensus recommendations. The output format is markdown which allows opening in any text editor independently of your OS. The final document can easily be used to generate a PDF to...">
+
+  
+  <meta name="twitter:image" content="/assets/img/HZ.jpg">
+  
+
+  
+
+
+  
+
+  
+
+</head>
+
+
+<body>
+
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="">Helge J. Zöllner, PhD</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/aboutme">About Me</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://drive.google.com/file/d/1fVY5JIxjo_xgSOf5yFWHIsoYVlI7yjP2/view?usp=sharing">CV</a>
+          </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/HZ.jpg" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+  <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="post-heading">
+          <h1>MRSinMRS markdown in Osprey</h1>
+          
+
+          
+            <span class="post-meta">Posted on April 26, 2021</span>
+            
+            
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class=" container-md ">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+
+      
+        
+        
+        
+
+        <div id="header-gh-btns">
+          
+            
+              
+                  <iframe src="https://ghbtns.com/github-btn.html?user=schorschinho&repo=osprey&type=star&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                
+            
+              
+                  <iframe src="https://ghbtns.com/github-btn.html?user=schorschinho&repo=osprey&type=fork&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                
+            
+              
+                  <iframe src="https://ghbtns.com/github-btn.html?user=schorschinho&type=follow&count=true" frameborder="0" scrolling="0" width="220px" height="20px"></iframe>
+              
+            
+          
+        </div>
+      
+
+      
+
+      <article role="main" class="blog-post">
+        <p>Dear MRS community,</p>
+
+<p>we are happy to announce a new module in Osprey that automatically creates a table following the consensus recommendations. The output format is markdown which allows opening in any text editor independently of your OS. The final document can easily be used to generate a PDF to attach for publication.</p>
+
+<p>Hopefully, this easy and open implementation allows other developers to join us and make this a standard output of any MRS analysis software. This could be very helpful to further increase the standardization and transparency of MRS studies.</p>
+
+<p>The new module will be included in the next Osprey release and is currently available in <a href="https://github.com/schorschinho/osprey">Osprey’s develop branch</a>.</p>
+
+<p>We are happy for your feedback!</p>
+
+<p># Summary following minimum reporting standards in MRS generated in Osprey
+ See Lin et al. ‘Minimum Reporting Standards for in vivo Magnetic Resonance Spectroscopy (MRSinMRS): Experts’ consensus recommendations. NMR in Biomedicine. 2021;e4484.
+ <a href="https://doi.org/10.1002/nbm.4448">doi.org/10.1002/nbm.4448</a></p>
+
+<p>You may need to add information that was not avaialble in the raw data.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>1. Hardware</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>a. Field strength [T]</td>
+      <td>3 T</td>
+    </tr>
+    <tr>
+      <td>b. Manufacturer</td>
+      <td>Philips</td>
+    </tr>
+    <tr>
+      <td>c. Model (software version if available)</td>
+      <td>R 5.7.1</td>
+    </tr>
+    <tr>
+      <td>d. RF coils: nuclei (transmit/receive), number of channels, type, body part</td>
+      <td>1H</td>
+    </tr>
+    <tr>
+      <td>e. Additional hardware</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>2. Acquisition</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>a. Pulse sequence</td>
+      <td>MEGA_PRESS_FF</td>
+    </tr>
+    <tr>
+      <td>b. Volume of interest (VOI) locations</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>c. Nominal VOI size [mm^3]</td>
+      <td>30 x 30 x 30 mm^3</td>
+    </tr>
+    <tr>
+      <td>d. Repetition time (TR), echo time (TE) [ms]</td>
+      <td>TR 2000 ms, TE 90 ms</td>
+    </tr>
+    <tr>
+      <td>e. Total number of averages per spectrum <br /> i. Number of averaged specra per subspectrum</td>
+      <td>384 total averages with 192 averages per subspectrum</td>
+    </tr>
+    <tr>
+      <td>f. Additional sequence parameters <br /> i. editing pulse frequencies</td>
+      <td>F1: 2000 Hz, 2048 points <br /> ppm<sub>ON</sub> = 3.22 ppm<sub>OFF</sub> = 7.50</td>
+    </tr>
+    <tr>
+      <td>g. Water suppression method</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>h. Shimming method, refernce peak, and threshold of acceptance of shim chosen</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>i. Trigger or motion correction</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>3. Data analysis methods and outputs</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>a. Analysis software</td>
+      <td>Osprey 1.0.1</td>
+    </tr>
+    <tr>
+      <td>b. Processing steps deviating from Osprey</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>c. Output measure</td>
+      <td>tCr, rawWaterScaled</td>
+    </tr>
+    <tr>
+      <td>d. Quantification references and assumptions, fitting model assumptions</td>
+      <td>Basis set list:<br /> AscAsp,Cr,CrCH2,GABA,GPC,GSH,Gln,Glu,Ins,<br />Lac,NAA,NAAG,PCh,PCr,PE,Scyllo,Tau,MM09,<br />MM12,MM14,MM17,MM20,Lip09,Lip13,Lip20 <br />Fitting method: Osprey basline knot spacing 0.32 ppm</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>4. Data quality</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>a. SNR (NAA), linewidth (NAA) [Hz]</td>
+      <td>SNR: 263 +- 37, linewidth 5.49 +- 0.45 Hz</td>
+    </tr>
+    <tr>
+      <td>b. Data exclusion criteria</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>c. Quality measures of postporcessing model fitting (Mean Relative Amplitude Residual (Residual/Noise)) <br /> off <br /> diff1</td>
+      <td><br /> 22.14 +- 8.14  <br /> 16.19 +- 4.15</td>
+    </tr>
+    <tr>
+      <td>d. Mean spectrum created with OspreyOverview</td>
+      <td>Figure 1</td>
+    </tr>
+  </tbody>
+</table>
+
+      </article>
+
+      
+        <div class="blog-tags">
+          <span>Tags:</span>
+          
+            <a href="/tags#Osprey">Osprey</a>
+          
+            <a href="/tags#open-source">open-source</a>
+          
+            <a href="/tags#open-science">open-science</a>
+          
+            <a href="/tags#update">update</a>
+          
+        </div>
+      
+
+      
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+    <a href="https://twitter.com/intent/tweet?text=MRSinMRS+markdown+in+Osprey&url=%2F2021-04-26-Osprey-Updates-03%2F"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fab fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  
+
+  
+
+  
+
+  
+
+</section>
+
+
+
+      
+
+      <ul class="pagination blog-pager">
+        
+        <li class="page-item previous">
+          <a class="page-link" href="/2021-02-20-Osprey-Updates-02/" data-toggle="tooltip" data-placement="top" title="Inital post">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="page-item next">
+          <a class="page-link" href="/2021-05-08-SpecVis-Release-04/" data-toggle="tooltip" data-placement="top" title="SpecVis v.1.0.0 Release">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+      
+  
+  
+  
+
+  
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="/feed.xml" title="RSS">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">RSS</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="mailto:hzoelln2@jhmi.edu" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://github.com/HJZollner" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://twitter.com/HelgeZollner" title="Twitter">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Twitter</span>
+   </a>
+  </li></ul>
+
+      
+      <p class="copyright text-muted">
+      
+        Helge J. Zöllner, PhD
+        &nbsp;&bull;&nbsp;
+      
+      2021
+
+      
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="">hjzollner.github.iu</a>
+        </span>
+      
+
+      
+      </p>
+      <p class="theme-by text-muted">
+        Powered by
+        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+</body>
+</html>

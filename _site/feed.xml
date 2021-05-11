@@ -2,35 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <title>My Website</title>
+    <title>Helge J. Zöllner, PhD</title>
     
     
-    <description>This website is a virtual proof that I'm awesome</description>
+    <description>Latest update on my research</description>
     
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
-        <title>Sample blog post</title>
+        <title>SpecVis v.1.0.0 Release</title>
         <description>
-          Each post also has a subtitle - 
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
+          
+          
+
+I’m happy to announce the release of SpecVis v.1.0.0 today. This R repository includes a number of functions to create reproducible and information rich plots for transparent data reporting.
+
+The functions are freely avaialbe on the SpecVis GitHub.
+
+If you have any suggestions please contact me,
+
         </description>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 -0500</pubDate>
-        <link>/2020-02-28-test-markdown/</link>
-        <guid isPermaLink="true">/2020-02-28-test-markdown/</guid>
+        <pubDate>Sat, 08 May 2021 16:00:00 -0400</pubDate>
+        <link>/2021-05-08-SpecVis-Release-04/</link>
+        <guid isPermaLink="true">/2021-05-08-SpecVis-Release-04/</guid>
       </item>
     
       <item>
-        <title>Flake it till you make it</title>
+        <title>MRSinMRS markdown in Osprey</title>
         <description>
-          Excerpt from Soulshaping by Jeff Brown - 
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+          
+          Dear MRS community, we are happy to announce a new module in Osprey that automatically creates a table following the consensus recommendations. The output format is markdown which allows opening in any text editor independently of your OS. The final document can easily be used to generate a PDF to...
         </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
-        <link>/2020-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">/2020-02-26-flake-it-till-you-make-it/</guid>
+        <pubDate>Mon, 26 Apr 2021 19:00:00 -0400</pubDate>
+        <link>/2021-04-26-Osprey-Updates-03/</link>
+        <guid isPermaLink="true">/2021-04-26-Osprey-Updates-03/</guid>
+      </item>
+    
+      <item>
+        <title>Inital post</title>
+        <description>
+          
+          Hi!
+
+I’ll use this blog to include announce new changes to Osprey and SpecVis as well as recent updates iabout my research.
+
+Helge
+
+        </description>
+        <pubDate>Sat, 20 Feb 2021 18:18:00 -0500</pubDate>
+        <link>/2021-02-20-Osprey-Updates-02/</link>
+        <guid isPermaLink="true">/2021-02-20-Osprey-Updates-02/</guid>
       </item>
     
   </channel>
