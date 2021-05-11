@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Helge Jörn Zöllner, PhD
 ---
 
 My research as postdoctoral fellow is focused on the detection of brain metabolites using conventional and edited magnetic resonance spectroscopy. My particular interest is to develop and standardize methods to detect low-concentration metabolites, such as the main inhibitory neurotransmitter GABA, ascorbate, glutamine, and glutathione. I am part of [Richard Edden's lab](http://www.gabamrs.com/) at The Johns Hopkins University.
