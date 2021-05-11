@@ -2,6 +2,7 @@
 layout: post
 title:  SpecVis v.1.0.0 Release
 date:   2021-05-08 15:00:00 -0500
+thumbnail-img: /assets/img/Logo.png
 gh-repo: HJZollner/SpecVis
 gh-badge: [star, fork, follow]
 tags: [SpecVis, open-source, open-science, update]

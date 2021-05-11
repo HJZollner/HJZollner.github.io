@@ -28,7 +28,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/Logo.png"
+# title-img: "/assets/img/Logo.png"
 
 
 # --- Footer social media links --- #
@@ -204,7 +204,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
