@@ -1,157 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-05-10T21:16:02-04:00</updated><id>/feed.xml</id><title type="html">Helge J. Zöllner, PhD</title><subtitle>MRS/MRI researcher, open-source software developer, Osprey enthusiast.</subtitle><entry><title type="html">SpecVis v.1.0.0 Release</title><link href="/specvis/update/2021/05/08/SpecVis-Release-04.html" rel="alternate" type="text/html" title="SpecVis v.1.0.0 Release" /><published>2021-05-08T16:00:00-04:00</published><updated>2021-05-08T16:00:00-04:00</updated><id>/specvis/update/2021/05/08/SpecVis-Release-#04</id><content type="html" xml:base="/specvis/update/2021/05/08/SpecVis-Release-04.html">&lt;p&gt;&lt;img src=&quot;/assets/images/Logo.png&quot; alt=&quot;SpecVis&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m happy to announce the release of SpecVis v.1.0.0 today. This R repository includes a number of functions to create reproducible and information rich plots for transparent data reporting.&lt;/p&gt;
-
-&lt;p&gt;The functions are freely avaialbe on the &lt;a href=&quot;https://github.com/HJZollner/SpecVis/releases&quot;&gt;SpecVis GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you have any suggestions please contact me,&lt;/p&gt;</content><author><name></name></author><category term="SpecVis" /><category term="update" /><category term="SpecVis" /><category term="open-source" /><category term="open-science" /><summary type="html"></summary></entry><entry><title type="html">MRSinMRS markdown in Osprey</title><link href="/osprey/update/2021/04/26/Osprey-Updates-03.html" rel="alternate" type="text/html" title="MRSinMRS markdown in Osprey" /><published>2021-04-26T19:00:00-04:00</published><updated>2021-04-26T19:00:00-04:00</updated><id>/osprey/update/2021/04/26/Osprey-Updates-#03</id><content type="html" xml:base="/osprey/update/2021/04/26/Osprey-Updates-03.html">&lt;p&gt;Dear MRS community,&lt;/p&gt;
-
-&lt;p&gt;we are happy to announce a new module in Osprey that automatically creates a table following the consensus recommendations. The output format is markdown which allows opening in any text editor independently of your OS. The final document can easily be used to generate a PDF to attach for publication.&lt;/p&gt;
-
-&lt;p&gt;Hopefully, this easy and open implementation allows other developers to join us and make this a standard output of any MRS analysis software. This could be very helpful to further increase the standardization and transparency of MRS studies.&lt;/p&gt;
-
-&lt;p&gt;The new module will be included in the next Osprey release and is currently available in &lt;a href=&quot;https://github.com/schorschinho/osprey&quot;&gt;Osprey’s develop branch&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We are happy for your feedback!&lt;/p&gt;
-
-&lt;p&gt;# Summary following minimum reporting standards in MRS generated in Osprey
- See Lin et al. ‘Minimum Reporting Standards for in vivo Magnetic Resonance Spectroscopy (MRSinMRS): Experts’ consensus recommendations. NMR in Biomedicine. 2021;e4484.
- &lt;a href=&quot;https://doi.org/10.1002/nbm.4448&quot;&gt;doi.org/10.1002/nbm.4448&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You may need to add information that was not avaialble in the raw data.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;1. Hardware&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;a. Field strength [T]&lt;/td&gt;
-      &lt;td&gt;3 T&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;b. Manufacturer&lt;/td&gt;
-      &lt;td&gt;Philips&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;c. Model (software version if available)&lt;/td&gt;
-      &lt;td&gt;R 5.7.1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;d. RF coils: nuclei (transmit/receive), number of channels, type, body part&lt;/td&gt;
-      &lt;td&gt;1H&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;e. Additional hardware&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;2. Acquisition&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;a. Pulse sequence&lt;/td&gt;
-      &lt;td&gt;MEGA_PRESS_FF&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;b. Volume of interest (VOI) locations&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;c. Nominal VOI size [mm^3]&lt;/td&gt;
-      &lt;td&gt;30 x 30 x 30 mm^3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;d. Repetition time (TR), echo time (TE) [ms]&lt;/td&gt;
-      &lt;td&gt;TR 2000 ms, TE 90 ms&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;e. Total number of averages per spectrum &lt;br /&gt; i. Number of averaged specra per subspectrum&lt;/td&gt;
-      &lt;td&gt;384 total averages with 192 averages per subspectrum&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;f. Additional sequence parameters &lt;br /&gt; i. editing pulse frequencies&lt;/td&gt;
-      &lt;td&gt;F1: 2000 Hz, 2048 points &lt;br /&gt; ppm&lt;sub&gt;ON&lt;/sub&gt; = 3.22 ppm&lt;sub&gt;OFF&lt;/sub&gt; = 7.50&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;g. Water suppression method&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;h. Shimming method, refernce peak, and threshold of acceptance of shim chosen&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;i. Trigger or motion correction&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;3. Data analysis methods and outputs&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;a. Analysis software&lt;/td&gt;
-      &lt;td&gt;Osprey 1.0.1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;b. Processing steps deviating from Osprey&lt;/td&gt;
-      &lt;td&gt;None&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;c. Output measure&lt;/td&gt;
-      &lt;td&gt;tCr, rawWaterScaled&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;d. Quantification references and assumptions, fitting model assumptions&lt;/td&gt;
-      &lt;td&gt;Basis set list:&lt;br /&gt; AscAsp,Cr,CrCH2,GABA,GPC,GSH,Gln,Glu,Ins,&lt;br /&gt;Lac,NAA,NAAG,PCh,PCr,PE,Scyllo,Tau,MM09,&lt;br /&gt;MM12,MM14,MM17,MM20,Lip09,Lip13,Lip20 &lt;br /&gt;Fitting method: Osprey basline knot spacing 0.32 ppm&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;4. Data quality&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;a. SNR (NAA), linewidth (NAA) [Hz]&lt;/td&gt;
-      &lt;td&gt;SNR: 263 +- 37, linewidth 5.49 +- 0.45 Hz&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;b. Data exclusion criteria&lt;/td&gt;
-      &lt;td&gt;None&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;c. Quality measures of postporcessing model fitting (Mean Relative Amplitude Residual (Residual/Noise)) &lt;br /&gt; off &lt;br /&gt; diff1&lt;/td&gt;
-      &lt;td&gt;&lt;br /&gt; 22.14 +- 8.14  &lt;br /&gt; 16.19 +- 4.15&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;d. Mean spectrum created with OspreyOverview&lt;/td&gt;
-      &lt;td&gt;Figure 1&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="Osprey" /><category term="update" /><category term="Osprey" /><category term="open-source" /><category term="open-science" /><summary type="html">Dear MRS community,</summary></entry><entry><title type="html">Inital post</title><link href="/jekyll/update/2021/02/20/Osprey-Updates-02.html" rel="alternate" type="text/html" title="Inital post" /><published>2021-02-20T18:18:00-05:00</published><updated>2021-02-20T18:18:00-05:00</updated><id>/jekyll/update/2021/02/20/Osprey-Updates-#02</id><content type="html" xml:base="/jekyll/update/2021/02/20/Osprey-Updates-02.html">&lt;p&gt;Hi!&lt;/p&gt;
-
-&lt;p&gt;I’ll use this blog to include announce new changes to Osprey and SpecVis as well as recent updates iabout my research.&lt;/p&gt;
-
-&lt;p&gt;Helge&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Hi!</summary></entry></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>My Website</title>
+    
+    
+    <description>This website is a virtual proof that I'm awesome</description>
+    
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Sample blog post</title>
+        <description>
+          Each post also has a subtitle - 
+          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
+        </description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 -0500</pubDate>
+        <link>/2020-02-28-test-markdown/</link>
+        <guid isPermaLink="true">/2020-02-28-test-markdown/</guid>
+      </item>
+    
+      <item>
+        <title>Flake it till you make it</title>
+        <description>
+          Excerpt from Soulshaping by Jeff Brown - 
+          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+        </description>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
+        <link>/2020-02-26-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">/2020-02-26-flake-it-till-you-make-it/</guid>
+      </item>
+    
+  </channel>
+</rss>
