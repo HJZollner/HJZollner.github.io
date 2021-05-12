@@ -7,8 +7,7 @@
 
 # Name of website
 title: Helge J. Zöllner, PhD
-description: >- # this means to ignore newlines until "baseurl:"
-  MRS/MRI researcher, open-source software developer, Osprey enthusiast.
+description: MRS/MRI researcher, open-source software developer, Osprey enthusiast.
 
 # Your name to show in the footer
 author: Helge J. Zöllner, PhD
@@ -16,8 +15,11 @@ author: Helge J. Zöllner, PhD
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Helge Zöllner, PhD: "aboutme"
-  CV: "https://drive.google.com/file/d/1fVY5JIxjo_xgSOf5yFWHIsoYVlI7yjP2/view?usp=sharing"
+  Research: "research"
+  About: "aboutme"
+  home: "index"
+
+
 
 # --- Logo --- #
 
@@ -60,7 +62,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
   ORCID: 0000-0002-7148-292X
-#  google-scholar: your google scholar
+  google-scholar: citations?user=i1s-kdgAAAAJ&hl=de
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -95,8 +97,19 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+#navbar-col: "#404040"
+#navbar-text-col: "#EAEAEA"
+#navbar-border-col: "#DDDDDD"
+#page-col: "#272727"
+#text-col: "#747474"
+#link-col: "#FF652F"
+#hover-col: "#FFE400"
+#footer-col: "#404040"
+#footer-text-col: "#747474"
+#footer-link-col: "#14A76C"
+
+navbar-col: "#404040"
+navbar-text-col: "#EAEAEA"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
