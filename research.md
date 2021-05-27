@@ -5,6 +5,7 @@ title: Research
 A summary of my latest research.
 
 # Current Preprints
+- H. J. Zöllner, S. Tapper, S. C. N. Hui,P. B. Barker, R. A. E. Edden, and G. Oeltzschner. Comparison of linear combination modeling strategies for GABA-edited MRS at 3T. [bioRxiv](https://doi.org/10.1101/2021.05.26.445817)
 
 # Articles
 ### 2021
