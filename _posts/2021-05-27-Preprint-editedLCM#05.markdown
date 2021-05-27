@@ -5,7 +5,7 @@ date:   2021-05-27 10:00:00 -0500
 tags: [preprint, open-source, open-science, GABA]
 ---
 
-Our new preprint is out (https://doi.org/10.1101/2021.05.26.445817)! We evaluated different modeling strategies for linear combination modeling of GABA-edited MRS at 3T. Parameterizing the co-edited macromolecules at 3-ppm improved overall fitting performance.
+[Our new preprint is out](https://doi.org/10.1101/2021.05.26.445817)! We evaluated different modeling strategies for linear combination modeling of GABA-edited MRS at 3T. Parameterizing the co-edited macromolecules at 3-ppm improved overall fitting performance.
 
 Different modeling strategies were tested: combining six approaches to account for co-edited MMs, three modeling ranges, three baseline knot spacings, and using basis sets with and without homocarnosine.
 
