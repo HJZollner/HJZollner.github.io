@@ -3,11 +3,6 @@ layout: page
 title: Research
 ---
 A summary of my latest research.
-# Google Scholar stats:
-- [Google Scholar Profile](https://scholar.google.com/citations?user={{ site.data.scholar.id }})
-- Citations: {{ site.data.scholar.citations }}
-- h-index: {{ site.data.scholar.h_index }}
-- i10-index: {{ site.data.scholar.i10_index }}
 
 # Current Preprints
 
