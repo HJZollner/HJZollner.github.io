@@ -5,10 +5,25 @@ title: Research
 A summary of my latest research.
 
 # Current Preprints
-- H. J. Zöllner, S. Tapper, S. C. N. Hui,P. B. Barker, R. A. E. Edden, and G. Oeltzschner. Comparison of linear combination modeling strategies for GABA-edited MRS at 3T. [bioRxiv](https://doi.org/10.1101/2021.05.26.445817)
 
 # Articles
+### 2022
+- Song Y, Lally PJ, Yanez Lopez M, Oeltzschner G, Nebel MB, Gagoski B, Kecskemeti S, Hui SCN, Zöllner HJ, Shukla D, Arichi T, De Vita E, Yedavalli V, Thayyil S, Fallin D, Dean DC 3rd, Grant PE, Wisnowski JL, Edden RAE. Edited magnetic resonance spectroscopy in the neonatal brain. [Neuroradiology](https://doi.org/10.1007/s00234-021-02821-9)
+
+- Tapper S, Hui SCN, Saleh MG, Zöllner HJ, Oeltzschner G, Near J, Soher BJ, Edden RAE. Influence of editing pulse flip angle on J-difference MR spectroscopy. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29008)
+
+- Craven AR, Bhattacharyya PK, Clarke WT, Dydak U, Edden RAE, Ersland L, Mandal PK, Mikkelsen M, Murdoch JB, Near J, Rideaux R, Shukla D, Wang M, Wilson M, Zöllner HJ, Hugdahl K, Oeltzschner G. Comparison of seven modelling algorithms for GABA-edited 1 H-MRS. [NMR in Biomedicine](https://doi.org/10.1002/nbm.4702)
+
+- Zöllner HJ, Tapper S, Hui SCN, Barker PB, Edden RAE, Oeltzschner G. Comparison of linear combination modeling strategies for edited magnetic resonance spectroscopy at 3 T. [NMR in Biomedicine](https://doi.org/10.1002/nbm.4618)
+
+- Hui SCN, Zöllner HJ, Oeltzschner G, Edden RAE, Saleh MG. In vivo spectral editing of phosphorylethanolamine. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.28976)
+
 ### 2021
+- Hui SCN, Gong T, Zöllner HJ, Song Y, Murali-Manohar S, Oeltzschner G, Mikkelsen M, Tapper S, Chen Y, Saleh MG, Porges EC, Chen W, Wang G, Edden RAE. The macromolecular MR spectrum does not change with healthy aging. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29093).
+
+- Hui SCN, Mikkelsen M, Zöllner HJ, Ahluwalia V, Alcauter S, Baltusis L, Barany DA, Barlow LR, Becker R, Berman JI, Berrington A, Bhattacharyya PK, Blicher JU, Bogner W, Brown MS, Calhoun VD, Castillo R, Cecil KM, Choi YB, Chu WCW, Clarke WT, Craven AR, Cuypers K, Dacko M, de la Fuente-Sandoval C, Desmond P, Domagalik A, Dumont J, Duncan NW, Dydak U, Dyke K, Edmondson DA, Ende G, Ersland L, Evans CJ, Fermin ASR, Ferretti A, Fillmer A, Gong T, Greenhouse I, Grist JT, Gu M, Harris AD, Hat K, Heba S, Heckova E, Hegarty JP 2nd, Heise KF, Honda S, Jacobson A, Jansen JFA, Jenkins CW, Johnston SJ, Juchem C, Kangarlu A, Kerr AB, Landheer K, Lange T, Lee P, Levendovszky SR, Limperopoulos C, Liu F, Lloyd W, Lythgoe DJ, Machizawa MG, MacMillan EL, Maddock RJ, Manzhurtsev AV, Martinez-Gudino ML, Miller JJ, Mirzakhanian H, Moreno-Ortega M, Mullins PG, Nakajima S, Near J, Noeske R, Nordhøy W, Oeltzschner G, Osorio-Duran R, Otaduy MCG, Pasaye EH, Peeters R, Peltier SJ, Pilatus U, Polomac N, Porges EC, Pradhan S, Prisciandaro JJ, Puts NA, Rae CD, Reyes-Madrigal F, Roberts TPL, Robertson CE, Rosenberg JT, Rotaru DG, O'Gorman Tuura RL, Saleh MG, Sandberg K, Sangill R, Schembri K, Schrantee A, Semenova NA, Singel D, Sitnikov R, Smith J, Song Y, Stark C, Stoffers D, Swinnen SP, Tain R, Tanase C, Tapper S, Tegenthoff M, Thiel T, Thioux M, Truong P, van Dijk P, Vella N, Vidyasagar R, Vovk A, Wang G, Westlye LT, Wilbur TK, Willoughby WR, Wilson M, Wittsack HJ, Woods AJ, Wu YC, Xu J, Lopez MY, Yeung DKW, Zhao Q, Zhou X, Zupan G, Edden RAE. Frequency drift in MR spectroscopy at 3T. [Neuroimage](https://doi.org/10.1016/j.neuroimage.2021.118430)
+
+- I. Mawla, E. Ichesco, H. J. Zöllner, R. A. E. Edden, T. Chenevert, H. Buchtel, M. D. Bretz, H. Sloan, C. M. Kaplan, S. E. Harte, G. A. Mashour, D. J. Clauw, V. Napadow, and R. E. Harris. Greater Somatosensory Afference with Acupuncture Increases Primary Somatosensory Connectivity and Alleviates Fibromyalgia Pain via Insular GABA: A Randomized Neuroimaging Trial. [Arthritis & Rheumatology](https://onlinelibrary.wiley.com/doi/pdf/10.1002/art.41620)
 
 - H. J. Zöllner, M. Povazan, S. C. N. Hui, S. Tapper, R. A. E. Edden, and G. Oeltzschner. Comparison of different linear-combination modeling algorithms for short-TE proton spectra. [NMR in Biomedicine](https://onlinelibrary.wiley.com/doi/pdf/10.1002/nbm.4482)
 
@@ -19,7 +34,6 @@ A summary of my latest research.
 - H. J. Zöllner, G. Oeltzschner, A. Schnitzler, and H.-J. Wittsack. In silico GABA+ MEGA-PRESS: Effects of signal-to-noise ratio and linewidth on modeling the 3 ppm GABA+ resonance. [NMR in Biomedicine](https://onlinelibrary.wiley.com/doi/pdf/10.1002/nbm.4410)
 
 ### 2020
-- I. Mawla, E. Ichesco, H. J. Zöllner, R. A. E. Edden, T. Chenevert, H. Buchtel, M. D. Bretz, H. Sloan, C. M. Kaplan, S. E. Harte, G. A. Mashour, D. J. Clauw, V. Napadow, and R. E. Harris. Greater Somatosensory Afference with Acupuncture Increases Primary Somatosensory Connectivity and Alleviates Fibromyalgia Pain via Insular GABA: A Randomized Neuroimaging Trial. [Arthritis & Rheumatology](https://onlinelibrary.wiley.com/doi/pdf/10.1002/art.41620)
 
 - S. D. Pizzi, R. Franciotti, A. Ferretti, R. A. E. Edden, H. J. Zöllner, R. Esposito, G. Bubbico, C. Aiello, F. Calvanese, S. L. Sensi, A. Tartaro, M. Onofrj, and L. Bonanni. High -Aminobutyric Acid Content Within the Medial Prefrontal Cortex Is a Functional Signature of Somatic Symptoms Disorder in Patients With Parkinson’s Disease. [Movement Disorders](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mds.28221)
 
