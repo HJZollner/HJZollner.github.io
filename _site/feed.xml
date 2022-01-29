@@ -12,6 +12,67 @@
     
     
       <item>
+        <title>MRITogether Workshop - Showcasing  an  open-science  environment  for  rapid  benchmarking  of  new  1H-MRS  methods</title>
+        <description>
+          
+          Excited to present our open-source environment for rapid benchamrking of new 1H-MRS methods combining state-of-the-art MRS processing and LCM analysis with Osprey and visualization with SpecVis.
+
+Come and join us at the MRITogether Workshop organized by the ESMRMB for free! Visit me at my poster.
+
+Abstract
+Poster
+
+Thank you to those who contributed to this work - co-authors, my mentors and supervisors Georg Oeltzschner and Richard Edden.
+
+        </description>
+        <pubDate>Mon, 13 Dec 2021 10:00:00 -0500</pubDate>
+        <link>/2021-12-13-Presentation-editedLCM-08/</link>
+        <guid isPermaLink="true">/2021-12-13-Presentation-editedLCM-08/</guid>
+      </item>
+    
+      <item>
+        <title>Comparison of linear combination modeling strategies for edited magnetic resonance spectroscopy at 3T</title>
+        <description>
+          
+          Happy to announce that our paper about Linear-combination modeling of GABA-edited MRS is now available at NMR in Biomedicine. A well-parameterized macromolecule (MM) basis function at 3 ppm improved overall modeling performance.
+
+GABA-edited MRS is best quantified by LCM with a well-parameterized coedited MM basis function constraint to the non-overlapped macromolecule peak at 0.9 ppm combined with sparse spline knot spacing and modeling range between 0.5 and 4 ppm. /2
+
+Paper
+Code
+Analysis
+Visualization
+
+Thank you to those who contributed to this work - co-authors, my mentors and supervisors Georg Oeltzschner and Richard Edden.
+
+        </description>
+        <pubDate>Fri, 24 Sep 2021 11:00:00 -0400</pubDate>
+        <link>/2021-09-24-Paper-editedLCM-07-copy/</link>
+        <guid isPermaLink="true">/2021-09-24-Paper-editedLCM-07-copy/</guid>
+      </item>
+    
+      <item>
+        <title>Poster Award - Reproducible MRS research methods at the annual ISMRM MR Spectroscopy Study Group Business Meeting</title>
+        <description>
+          
+          Happy and proud to have won a poster award for reproducible MRS research at the annual ISMRM MR Spectroscopy Study Group Business Meeting. I presented a pitch on my latest ISMRM abstract ‘Linear-combination modeling of GABA-edited MEGA-PRESS at 3T: Evaluating different modeling strategies’ which is already avaialbe as preprint!
+
+Congratulations to all other presenters!
+
+Preprint
+Code
+Analysis
+Visualization
+
+Thank you to those who contributed to this work - my mentors and supervisors Georg Oeltzschner and Richard Edden.
+
+        </description>
+        <pubDate>Sun, 06 Jun 2021 11:00:00 -0400</pubDate>
+        <link>/2021-06-06-Poster-Award-editedLCM-06/</link>
+        <guid isPermaLink="true">/2021-06-06-Poster-Award-editedLCM-06/</guid>
+      </item>
+    
+      <item>
         <title>Comparison of linear combination modeling strategies for GABA-edited MRS at 3T</title>
         <description>
           
