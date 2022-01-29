@@ -7,7 +7,7 @@ tags: [paper, open-source, open-science, GABA]
 
 Happy to announce that our paper about Linear-combination modeling of [GABA-edited MRS](https://doi.org/10.1002/nbm.4618) is now available at NMR in Biomedicine. A well-parameterized macromolecule (MM) basis function at 3 ppm improved overall modeling performance.
 
-GABA-edited MRS is best quantified by LCM with a well-parameterized coedited MM basis function constraint to the non-overlapped macromolecule peak at 0.9 ppm combined with sparse spline knot spacing and modeling range between 0.5 and 4 ppm. /2
+GABA-edited MRS is best quantified by LCM with a well-parameterized coedited MM basis function constraint to the non-overlapped macromolecule peak at 0.9 ppm combined with sparse spline knot spacing and modeling range between 0.5 and 4 ppm.
 
 [Paper](https://doi.org/10.1002/nbm.4618)
 [Code](https://osf.io/aqm8f/)
