@@ -12,6 +12,17 @@
     
     
       <item>
+        <title>Comparison of linear combination modeling strategies for GABA-edited MRS at 3T</title>
+        <description>
+          
+          Our new preprint is out! We evaluated different modeling strategies for linear combination modeling of GABA-edited MRS at 3T. Parameterizing the co-edited macromolecules at 3-ppm improved overall fitting performance. Different modeling strategies were tested: combining six approaches to account for co-edited MMs, three modeling ranges, three baseline knot spacings, and using basis sets with and without homocarnosine. Significantly different GABA+ and GABA estimates were found when a well-parameterized MM basis function at 3 ppm was included. The mean GABA estimates were significantly lower when modeling MM, while CVs remained similar. Sparser knot spacing led to lower variation in the GABA...
+        </description>
+        <pubDate>Thu, 27 May 2021 11:00:00 -0400</pubDate>
+        <link>/2021-05-27-Preprint-editedLCM-05/</link>
+        <guid isPermaLink="true">/2021-05-27-Preprint-editedLCM-05/</guid>
+      </item>
+    
+      <item>
         <title>SpecVis v.1.0.0 Release</title>
         <description>
           
