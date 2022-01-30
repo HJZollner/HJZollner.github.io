@@ -31,9 +31,9 @@ A summary of my latest research.
 
 - S. Tapper, M. Mikkelsen, B. E. Dewey, H. J. Zöllner, S. C. N. Hui, G. Oeltzschner, and R. A. E. Edden. Frequency and phase correction of J-difference edited MR spectra using deep learning. [Magnetic Resonance in Medicine](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrm.28525)
 
-- H. J. Zöllner, G. Oeltzschner, A. Schnitzler, and H.-J. Wittsack. In silico GABA+ MEGA-PRESS: Effects of signal-to-noise ratio and linewidth on modeling the 3 ppm GABA+ resonance. [NMR in Biomedicine](https://onlinelibrary.wiley.com/doi/pdf/10.1002/nbm.4410)
-
 ### 2020
+
+- H. J. Zöllner, G. Oeltzschner, A. Schnitzler, and H.-J. Wittsack. In silico GABA+ MEGA-PRESS: Effects of signal-to-noise ratio and linewidth on modeling the 3 ppm GABA+ resonance. [NMR in Biomedicine](https://onlinelibrary.wiley.com/doi/pdf/10.1002/nbm.4410)
 
 - S. D. Pizzi, R. Franciotti, A. Ferretti, R. A. E. Edden, H. J. Zöllner, R. Esposito, G. Bubbico, C. Aiello, F. Calvanese, S. L. Sensi, A. Tartaro, M. Onofrj, and L. Bonanni. High -Aminobutyric Acid Content Within the Medial Prefrontal Cortex Is a Functional Signature of Somatic Symptoms Disorder in Patients With Parkinson’s Disease. [Movement Disorders](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mds.28221)
 

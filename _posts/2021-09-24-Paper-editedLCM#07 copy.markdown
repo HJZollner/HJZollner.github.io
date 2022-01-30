@@ -2,7 +2,7 @@
 layout: post
 title:  Comparison of linear combination modeling strategies for edited magnetic resonance spectroscopy at 3T
 date:   2021-09-24 10:00:00 -0500
-tags: [paper, open-source, open-science, GABA]
+tags: [Osprey, SpecVis, paper, open-source, open-science, GABA]
 ---
 
 Happy to announce that our paper about Linear-combination modeling of [GABA-edited MRS](https://doi.org/10.1002/nbm.4618) is now available at NMR in Biomedicine. A well-parameterized macromolecule (MM) basis function at 3 ppm improved overall modeling performance.

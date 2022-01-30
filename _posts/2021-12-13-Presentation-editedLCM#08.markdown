@@ -2,7 +2,7 @@
 layout: post
 title:  MRITogether Workshop - Showcasing  an  open-science  environment  for  rapid  benchmarking  of  new  1H-MRS  methods
 date:   2021-12-13 10:00:00 -0500
-tags: [presentation, abstract, open-source, open-science, GABA]
+tags: [Osprey, SpecVis, presentation, abstract, open-source, open-science, GABA]
 ---
 
 Excited to present our open-source environment for rapid benchamrking of new 1H-MRS methods combining state-of-the-art MRS processing and LCM analysis with [Osprey](https://github.com/schorschinho/osprey) and visualization with [SpecVis](https://github.com/HJZollner/SpecVis).

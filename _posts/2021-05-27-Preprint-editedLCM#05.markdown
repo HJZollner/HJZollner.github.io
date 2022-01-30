@@ -2,7 +2,7 @@
 layout: post
 title:  Comparison of linear combination modeling strategies for GABA-edited MRS at 3T
 date:   2021-05-27 10:00:00 -0500
-tags: [preprint, open-source, open-science, GABA]
+tags: [Osprey, SpecVis, preprint, open-source, open-science, GABA]
 ---
 
 [Our new preprint is out](https://doi.org/10.1101/2021.05.26.445817)! We evaluated different modeling strategies for linear combination modeling of GABA-edited MRS at 3T. Parameterizing the co-edited macromolecules at 3-ppm improved overall fitting performance.
