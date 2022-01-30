@@ -13,9 +13,7 @@ Significantly different GABA+ and GABA estimates were found when a well-paramete
 
 GABA-edited MRS is best quanitfied by LCM with a well-parameterized co-edited MM basis fucntion constraint to the non-overlapped MM0.93 in combination with a sparse spline knot spacing and a mdoeling range between 0.5 and 4 ppm.
 
-[Preprint](https://doi.org/10.1101/2021.05.26.445817)
-[Code](https://osf.io/aqm8f/)
-[Analysis](https://github.com/schorschinho/osprey)
-[Visualization](https://github.com/HJZollner/SpecVis)					
-
 Thank you to those who contributed to this work - my mentors and supervisors [Georg Oeltzschner](https://www.specfitlab.com/) and [Richard Edden](http://www.gabamrs.com/).
+
+#### Links
+[![Preprint](/assets/img/biorxiv-square.png)](https://doi.org/10.1101/2021.05.26.445817)[![Code](/assets/img/OSF.png)](https://osf.io/aqm8f/)   [![Analysis](/assets/img/Osprey.png)](https://github.com/schorschinho/osprey)   [![Visualization](/assets/img/SpecVis.png)](https://github.com/HJZollner/SpecVis)

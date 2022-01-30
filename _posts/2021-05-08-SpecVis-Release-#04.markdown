@@ -14,4 +14,7 @@ I'm happy to announce the release of SpecVis v.1.0.0 today. This R repository in
 
 The functions are freely avaialbe on the [SpecVis GitHub](https://github.com/HJZollner/SpecVis/releases).
 
-If you have any suggestions please contact me,
+If you have any suggestions please contact me.
+
+#### Links
+[![Visualization](/assets/img/SpecVis.png)](https://github.com/HJZollner/SpecVis)

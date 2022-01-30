@@ -12,18 +12,36 @@
     
     
       <item>
+        <title>Comparison of seven modelling algorithms for GABA-edited 1 H-MRS</title>
+        <description>
+          
+          Incredible work by my Alexander Craven on the comparison of seven modelling algorithms for GABA-edited 1 H-MRS now published in NMR in Biomedicine! This work found that moderate agreement between 7 LCM algorthms for GABA-edited MRS extending prior findings on the agreement of LCM in short TE PRESS MRS data. Addtionally, it confirms our recent findings, that including a dedicated MM model for the co-edited macormolecules at 0.9 ppm improves overall quantificaiton in terms of the agreement between different algorithms.
+
+Links
+
+
+        </description>
+        <pubDate>Sat, 29 Jan 2022 10:00:00 -0500</pubDate>
+        <link>/2022-01-29-editedLCM-09/</link>
+        <guid isPermaLink="true">/2022-01-29-editedLCM-09/</guid>
+      </item>
+    
+      <item>
+        <title>Importance of linear combination modeling for quantification of Glutathione and GABA levels using Hadamard-edited MRS</title>
+        <description>
+          
+          Happy to share this amazing work of my colleague Yulu Song implying improved quantification accuracy of GABA-GSH-edited HERMES data with linear-combination modeling compared to simple peak fitting. This work strenghtens recent consenus to employ LCM to model edited MRS data. LCM and processing was performed in Osprey and the implemeted models are freely available on GitHub using the accuarlty parametrization of co-edited MMs at 3 ppm to improve general modeling results. Test-retest results for GABA+ and GSH metabolite levels acquired with MEGA-PRESS or HERMES and modeled in Gannet and Osprey. The results imply improved quantification of HERMES acquired GSH levels...
+        </description>
+        <pubDate>Tue, 28 Dec 2021 10:00:00 -0500</pubDate>
+        <link>/2021-12-28-Preprint-HERMESLCM-09/</link>
+        <guid isPermaLink="true">/2021-12-28-Preprint-HERMESLCM-09/</guid>
+      </item>
+    
+      <item>
         <title>MRITogether Workshop - Showcasing  an  open-science  environment  for  rapid  benchmarking  of  new  1H-MRS  methods</title>
         <description>
           
-          Excited to present our open-source environment for rapid benchamrking of new 1H-MRS methods combining state-of-the-art MRS processing and LCM analysis with Osprey and visualization with SpecVis.
-
-Come and join us at the MRITogether Workshop organized by the ESMRMB for free! Visit me at my poster.
-
-Abstract
-Poster
-
-Thank you to those who contributed to this work - co-authors, my mentors and supervisors Georg Oeltzschner and Richard Edden.
-
+          Excited to present our open-source environment for rapid benchmarking of new 1H-MRS methods combining state-of-the-art MRS processing and LCM analysis with Osprey and visualization with SpecVis. Proposed open-science environment for rapid benchmarking of new 1H-MRS methods. The environment embbeds state-of-the-art MRS processing and LCM analysis with comprehensive visualization. Futhter large publicly avaialbe datasets are utilized for reproducibility and accessibility. Finally, early adoption and wide dissemination is fostered by the use of preprint servers. Come and join us at the MRITogether Workshop organized by the ESMRMB for free! Visit me at my poster. Or look at the abstract and poster at...
         </description>
         <pubDate>Mon, 13 Dec 2021 10:00:00 -0500</pubDate>
         <link>/2021-12-13-Presentation-editedLCM-08/</link>
@@ -34,39 +52,39 @@ Thank you to those who contributed to this work - co-authors, my mentors and sup
         <title>Comparison of linear combination modeling strategies for edited magnetic resonance spectroscopy at 3T</title>
         <description>
           
-          Happy to announce that our paper about Linear-combination modeling of GABA-edited MRS is now available at NMR in Biomedicine. A well-parameterized macromolecule (MM) basis function at 3 ppm improved overall modeling performance.
-
-GABA-edited MRS is best quantified by LCM with a well-parameterized coedited MM basis function constraint to the non-overlapped macromolecule peak at 0.9 ppm combined with sparse spline knot spacing and modeling range between 0.5 and 4 ppm.
-
-Paper
-Code
-Analysis
-Visualization
-
-Thank you to those who contributed to this work - co-authors, my mentors and supervisors Georg Oeltzschner and Richard Edden.
-
+          Happy to announce that our paper about Linear-combination modeling of GABA-edited MRS is now available at NMR in Biomedicine. A well-parameterized macromolecule (MM) basis function at 3 ppm improved overall modeling performance. GABA-edited MRS is best quantified by LCM with a well-parameterized coedited MM basis function constraint to the non-overlapped macromolecule peak at 0.9 ppm combined with sparse spline knot spacing and modeling range between 0.5 and 4 ppm. Graphical abstract: Smallest GABA+ CVs were found when the co-edited MM was hard constraint by the non-overlapped 0.9 ppm macromolecule peak. Thank you to those who contributed to this work -...
         </description>
         <pubDate>Fri, 24 Sep 2021 11:00:00 -0400</pubDate>
-        <link>/2021-09-24-Paper-editedLCM-07-copy/</link>
-        <guid isPermaLink="true">/2021-09-24-Paper-editedLCM-07-copy/</guid>
+        <link>/2021-09-24-Paper-editedLCM-07/</link>
+        <guid isPermaLink="true">/2021-09-24-Paper-editedLCM-07/</guid>
+      </item>
+    
+      <item>
+        <title>In vivo spectral editing of phosphorylethanolamine</title>
+        <description>
+          
+          Another exciting paper on edited MRS using LCM for modelling from my colleague Steve Hui. Here two editing schemes to investigate phosphorylethanolamine were implemented on a clincal scanner and analyzed using Osprey. Easy and highly flexible pre-processing and modeling modules in Osprey made this work possible - again showcasing rapid method adaption is possible with open-source implementations such as Osprey. For this work we did implement a new method for sub-spectra alignment into Osprey using a L1 norm optimization across the whole spectral range. Linear-combination modeling of PE-edited MEGA-PRESS data performed in Osprey. This showcases the modeling of the four...
+        </description>
+        <pubDate>Wed, 18 Aug 2021 11:00:00 -0400</pubDate>
+        <link>/2021-08-18-Paper-PE-editedLCM/</link>
+        <guid isPermaLink="true">/2021-08-18-Paper-PE-editedLCM/</guid>
       </item>
     
       <item>
         <title>Poster Award - Reproducible MRS research methods at the annual ISMRM MR Spectroscopy Study Group Business Meeting</title>
         <description>
           
-          Happy and proud to have won a poster award for reproducible MRS research at the annual ISMRM MR Spectroscopy Study Group Business Meeting. I presented a pitch on my latest ISMRM abstract ‘Linear-combination modeling of GABA-edited MEGA-PRESS at 3T: Evaluating different modeling strategies’ which is already avaialbe as preprint!
+          Happy and proud to have won a poster award for reproducible MRS research at the annual ISMRM MR Spectroscopy Study Group Business Meeting. I presented a pitch on my latest ISMRM abstract ‘Linear-combination modeling of GABA-edited MEGA-PRESS at 3T: Evaluating different modeling strategies’ which is already available as preprint!
 
 
+Open-source environment for LCM of GABA-edited MRS
 
 Congratulations to all other presenters!
 
-Preprint
-Code
-Analysis
-Visualization
-
 Thank you to those who contributed to this work - my mentors and supervisors Georg Oeltzschner and Richard Edden.
+
+Links
+      
 
         </description>
         <pubDate>Sun, 06 Jun 2021 11:00:00 -0400</pubDate>
@@ -95,7 +113,10 @@ I’m happy to announce the release of SpecVis v.1.0.0 today. This R repository 
 
 The functions are freely avaialbe on the SpecVis GitHub.
 
-If you have any suggestions please contact me,
+If you have any suggestions please contact me.
+
+Links
+
 
         </description>
         <pubDate>Sat, 08 May 2021 16:00:00 -0400</pubDate>
@@ -120,7 +141,7 @@ If you have any suggestions please contact me,
           
           Hi!
 
-I’ll use this blog to include announce new changes to Osprey and SpecVis as well as recent updates iabout my research.
+I’ll use this blog to include announce new changes to Osprey and SpecVis as well as recent updates about my research.
 
 Helge
 

@@ -16,6 +16,8 @@ The new module will be included in the next Osprey release and is currently avai
 
 We are happy for your feedback!
 
+#### Links
+[![Osprey](/assets/img/Osprey.png)](https://github.com/schorschinho/osprey)
 
  # Summary following minimum reporting standards in MRS generated in Osprey
  See Lin et al. 'Minimum Reporting Standards for in vivo Magnetic Resonance Spectroscopy (MRSinMRS): Experts' consensus recommendations. NMR in Biomedicine. 2021;e4484.
