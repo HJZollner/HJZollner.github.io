@@ -91,7 +91,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "MRS,open-source,LCM,GABA,Osprey,SpecVis,Visualization,Raincloud, Zollner"
+keywords: "Zollner, Zöllner, MRS,open-source,LCM,GABA,Osprey,SpecVis,Visualization,Raincloud, Helge"
 
 # --- Colours / background image --- #
 
@@ -140,10 +140,10 @@ footer-link-col: "#404040"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "GTM-5LLT3L4"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "UA-218936305-1"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
