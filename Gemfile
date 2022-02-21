@@ -7,5 +7,6 @@ group :jekyll_plugins do
 end
 gem "nokogiri"
 gem "open-uri"
+gem 'jekyll-seo-tag'
 
 gemspec
