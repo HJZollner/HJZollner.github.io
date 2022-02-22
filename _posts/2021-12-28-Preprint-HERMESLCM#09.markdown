@@ -11,5 +11,5 @@ Happy to share this amazing work of my colleague Yulu Song implying improved qua
 ![Test-retest quantification HERMES](/assets/img/HERMES_LCM.jpg){:class="img-responsive"}
 *Test-retest results for GABA+ and GSH metabolite levels acquired with MEGA-PRESS or HERMES and modeled in Gannet and Osprey. The results imply improved quantification of HERMES acquired GSH levels quantified with LCM (Osprey) compared to simple peak fitting (Gannet).*
 
-[Preprint](https://doi.org/10.1101/2021.12.28.474256)
-[Analysis](https://github.com/schorschinho/osprey)
+#### Links
+[![Preprint](/assets/img/doi.png)](https://doi.org/10.1101/2021.12.28.474256)[![Analysis](/assets/img/Osprey.png)](https://github.com/schorschinho/osprey)
