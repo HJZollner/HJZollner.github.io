@@ -5,9 +5,37 @@ title: Research
 A summary of my latest research.
 
 # Current Preprints
+- Hupfeld KE, Zöllner HJ, Hui SCN, et al. Impact of acquisition and modeling parameters on test-retest reproducibility of edited GABA+. [bioRxiv](https://doi.org/10.1101/2023.01.20.524952)
+
+- Hui SCN, Gong T, Zöllner HJ, et al. sLASER and PRESS Perform Similarly at Revealing Metabolite-Age Correlations. [bioRxiv](https://doi.org/10.1101/2023.01.18.524597)
+
+- Zöllner HJ, Jenkins CW, Lee EG, et al. Continuous automated MRS data analysis workflow for applied studies. [bioRxiv](https://doi.org/10.1101/2022.11.03.515056)
+
+- Naaijen J, Arenella M, Zöllner HJ, et al. Variation in glutamate and GABA genes and their association with brain structure and chemistry in autism. ](https://doi.org/10.1101/2022.05.25.493390)
 
 # Articles
+### 2023
+
+- Zöllner HJ, Thiel TA, Füllenbach ND, et al. J-difference GABA-edited MRS reveals altered cerebello-thalamo-cortical metabolism in patients with hepatic encephalopathy. [Metablic Brain Disease](https://doi.org/10.1007/s11011-023-01174-x)
+
+- Prisciandaro JJ, Zöllner HJ, Murali-Manohar S, Oeltzschner G, Edden RAE. More than one-half of the variance in in vivo proton MR spectroscopy metabolite estimates is common to all metabolites. [NMR in Biomedicine](https://doi.org/10.1002/nbm.4907)
+
+- Zöllner HJ, Davies-Jenkins CW, Murali-Manohar S, et al. Feasibility and implications of using subject-specific macromolecular spectra to model short-TE MRS data. [NMR in Biomedicine](https://doi.org/10.1002/nbm.4854)
+
+-Stabinska J, Zöllner HJ, Thiel TA, Wittsack HJ, Ljimani A. Image downsampling expedited adaptive least-squares (IDEAL) fitting improves intravoxel incoherent motion (IVIM) analysis in the human kidney. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29517)
+
+-Hupfeld KE, Zöllner HJ, Oeltzschner G, et al. Brain total creatine differs between primary progressive aphasia (PPA) subtypes and correlates with disease severity. [Neurobiology of Aging](https://doi.org/10.1016/j.neurobiolaging.2022.11.006)
+
+
 ### 2022
+- Gong T, Hui SCN, Zöllner HJ, et al. Neurometabolic timecourse of healthy aging. [NeuroImage](https://doi.org/10.1016/j.neuroimage.2022.119740)
+
+- Song Y, Zöllner HJ, Hui SCN, Hupfeld KE, Oeltzschner G, Edden RAE. Impact of gradient scheme and non-linear shimming on out-of-voxel echo artifacts in edited MRS. [NMR in Biomedicine](https://doi.org/10.1002/nbm.4839)
+
+- Hui SCN, Saleh MG, Zöllner HJ, et al. MRSCloud: A cloud-based MRS tool for basis set simulation. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29370)
+
+- Song Y, Zöllner HJ, Hui SCN, et al. Importance of Linear Combination Modeling for Quantification of Glutathione and γ-Aminobutyric Acid Levels Using Hadamard-Edited Magnetic Resonance Spectroscopy. [Frontiers in Psychiatry](https://www.frontiersin.org/articles/10.3389/fpsyt.2022.872403)
+
 - Song Y, Lally PJ, Yanez Lopez M, Oeltzschner G, Nebel MB, Gagoski B, Kecskemeti S, Hui SCN, Zöllner HJ, Shukla D, Arichi T, De Vita E, Yedavalli V, Thayyil S, Fallin D, Dean DC 3rd, Grant PE, Wisnowski JL, Edden RAE. Edited magnetic resonance spectroscopy in the neonatal brain. [Neuroradiology](https://doi.org/10.1007/s00234-021-02821-9)
 
 - Tapper S, Hui SCN, Saleh MG, Zöllner HJ, Oeltzschner G, Near J, Soher BJ, Edden RAE. Influence of editing pulse flip angle on J-difference MR spectroscopy. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29008)
