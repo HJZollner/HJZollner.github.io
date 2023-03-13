@@ -1,0 +1,12 @@
+---
+layout: post
+title:  MRSCloud: A cloud-based MRS tool for basis set simulation
+date:   2022-07-01 10:00:00 -0500
+thumbnail-img: /assets/img/MRSCloud.png
+tags: [LCM, basis set, MRS]
+---
+
+Exciting new work by my colleague Steve C. N. Hui about a cloud based tool to generate basis sets for common MRS sequences and vendors. This webbased tool allows you to generate basissets to include in Osprey or LCModel with arbitrary TE. It includes PRESS and sLASER localization, conventional, edited and multiplexed schemes, and three major vendors.
+
+#### Links
+[![Tutorial](/assets/img/doi.png)](https://doi.org/10.1002/mrm.29370)

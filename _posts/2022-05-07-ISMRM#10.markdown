@@ -2,6 +2,7 @@
 layout: post
 title:  ISMRM 2022 in London
 date:   2022-05-07 10:00:00 -0500
+thumbnail-img: /assets/img/ismrm.jpg
 tags: [LCM, Osprey, MRS, ISMRM]
 ---
 
