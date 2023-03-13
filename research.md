@@ -11,7 +11,7 @@ A summary of my latest research.
 
 - Zöllner HJ, Jenkins CW, Lee EG, et al. Continuous automated MRS data analysis workflow for applied studies. [bioRxiv](https://doi.org/10.1101/2022.11.03.515056)
 
-- Naaijen J, Arenella M, Zöllner HJ, et al. Variation in glutamate and GABA genes and their association with brain structure and chemistry in autism. ](https://doi.org/10.1101/2022.05.25.493390)
+- Naaijen J, Arenella M, Zöllner HJ, et al. Variation in glutamate and GABA genes and their association with brain structure and chemistry in autism. [bioRxiv]](https://doi.org/10.1101/2022.05.25.493390)
 
 # Articles
 ### 2023

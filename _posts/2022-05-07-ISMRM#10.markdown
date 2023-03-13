@@ -1,0 +1,13 @@
+---
+layout: post
+title:  ISMRM 2022 in London
+date:   2022-05-07 10:00:00 -0500
+tags: [LCM, Osprey, MRS, ISMRM]
+---
+
+Finally in-person ISMRM again. Come by one of my digital posters about the impact of measured MM background signals on the quantification of short-TE MRS and GABA-edited MRS. Or learn about the impacto fo retrospective motion-compensation on GABA-edited multi-slice MRSI.
+
+I am also excited to present Osprey in the Tutorials for the whole community session. This includes a quick pitch and podium discussion about open-source development and a longer tutorial on how to use Osprey for your MRS research.
+
+#### Links
+[![Tutorial](/assets/img/ismrm.jpg)](https://www.ismrm.org/22/program-files/ET-12.htm)[![Analysis](/assets/img/Osprey.png)](https://github.com/schorschinho/osprey)
