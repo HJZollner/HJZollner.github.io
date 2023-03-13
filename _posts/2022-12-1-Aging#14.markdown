@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Neurometabolic timecourse of healthy aging
+date:   2022-12-1 10:00:00 -0500
+thumbnail-img: /assets/img/Age.png
+tags: [LCM, MRS, MM, gLCM]
+---
+
+New work in NeuroImage from my colleague Tao Gong about the neurometabolic timecourse of healthy aging measured with short TE MRS. This large cross-sectional cohort showed significant correlations for tCho, tCr, mI, and sI in CSO and for NAAG, tCho, tCr, and Gln in PCC. The data was analyzed in Osprey.
+
+All results and code are available on [OSF](https://doi.org/10.17605/OSF.IO/UPNKD). The data can be found on [NITRC](https://www.nitrc.org/projects/mm_mrs/).
+
+A new voxel overlap method was implemted in Osprey for this work and is now available for you to use!
+
+#### Links
+[![Paper](/assets/img/doi.png)](https://doi.org/10.17605/OSF.IO/UPNKD)[![Code](/assets/img/OSF.png)](https://doi.org/10.17605/OSF.IO/7DXNM)[![Analysis](/assets/img/Osprey.png)](https://github.com/schorschinho/osprey)

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Brain total creatine differs between primary progressive aphasia (PPA) subtypes and correlates with disease severity
+date:   2022-11-17 10:00:00 -0500
+tags: [LCM, MRS, Osprey]
+---
+
+My colleague Kathleen Hupfeld found links between PPA subtypes and tCr as well as Glx concentrations. The data was analyzed using Osprey.
+
+#### Links
+[![Paper](/assets/img/doi.png)](https://doi.org/10.1016/j.neurobiolaging.2022.11.006)[![Analysis](/assets/img/Osprey.png)](https://github.com/schorschinho/osprey)

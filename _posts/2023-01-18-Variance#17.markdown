@@ -1,0 +1,11 @@
+---
+layout: post
+title:  More than one-half of the variance in in vivo proton MR spectroscopy metabolite estimates is common to all metabolites
+date:   2023-01-18 10:00:00 -0500
+tags: [MRS, LCM, Osprey, LCModel]
+---
+
+Do we have to rethink our statistical analysis approaches for 1H-MRS studies? This work by James Prisciandaro suggests that more than half of the total variability in metabolite estimates are explained by a single common factor. The Big PRESS dataset was processed in Osprey and metabolite estimation was performed in LCModel.
+
+#### Links
+[![Paper](/assets/img/doi.png)](https://doi.org/10.1002/nbm.4907)[![Analysis](/assets/img/Osprey.png)](https://github.com/schorschinho/osprey)

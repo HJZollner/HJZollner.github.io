@@ -3,10 +3,10 @@ layout: post
 title:  Impact of gradient scheme and non-linear shimming on out-of-voxel echo artifacts in edited MRS
 date:   2022-10-22 10:00:00 -0500
 thumbnail-img: /assets/img/MRSCloud.png
-tags: [LCM, MRS]
+tags: [LCM, MRS, Osprey]
 ---
 
 Do you have out-of-volume artifacts in your edited-MRS scans? My colleague Yulu Song compared the performance of different gradient-schemes to reduce OOV issues in GABA-GSH-edited HERMES data.
 
 #### Links
-[![Paper](/assets/img/doi.png)](https://doi.org/10.1002/nbm.4839)
+[![Paper](/assets/img/doi.png)](https://doi.org/10.1002/nbm.4839)[![Analysis](/assets/img/Osprey.png)](https://github.com/schorschinho/osprey)

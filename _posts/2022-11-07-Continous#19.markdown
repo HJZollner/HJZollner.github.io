@@ -1,0 +1,15 @@
+---
+layout: post
+title:  Continuous automated MRS data analysis workflow for applied studies
+date:   2023-11-07 10:00:00 -0500
+tags: [MRS, LCM, Osprey]
+---
+
+Are you afraid of loosing your MRS data during a MRS application study? Check out our new preprint on [bioRxiv](https://doi.org/10.1101/2022.11.03.515056). Here we present a continuous automated MRS analysis workflow. This workflow integrates automated data sorting, conversion to NIfTI-MRS, analysis in Osprey, and automated reproting of the results.
+
+This workflow can reduce the burden of manual data analysis and quality control.
+
+The code can be found on [GitHub](https://github.com/HJZollner/ContinuousAnalysisMRS).
+
+#### Links
+[![Paper](/assets/img/biorxiv-square.png)](https://doi.org/10.1101/2022.11.03.515056)[![Analysis](/assets/img/Osprey.png)](https://github.com/schorschinho/osprey)

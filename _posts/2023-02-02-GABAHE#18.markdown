@@ -1,0 +1,13 @@
+---
+layout: post
+title:  J-difference GABA-edited MRS reveals altered cerebello-thalamo-cortical metabolism in patients with hepatic encephalopathy
+date:   2023-02-02 10:00:00 -0500
+tags: [MRS, LCM, Osprey, SpecVis, LCModel, Gannet, HE]
+---
+
+Happy to share my new research on J-difference GABA-edited MRS in HE published in [Metabolic Brain Disease](https://doi.org/10.1007/s11011-023-01174-x). Here we applied GABA-edited MRS to explore metabolic alterations in the cerebello-thalamo-cortical loop in patients with hepatic encephalopthy. GABA+ levels were significanly altered in cerebellum and motor cortex and strongly correlated with critical flicker frequency, motor performance scores and blood ammonia levels.
+
+Another interesting aspect of this work is the integration of uncertainty weighted statistics into SpecVis to account for estiamtion uncertainty as defined by CRLB of the different metabolites in the final statistics.
+
+#### Links
+[![Paper](/assets/img/doi.png)](https://doi.org/10.1007/s11011-023-01174-x)[![Analysis](/assets/img/Osprey.png)](https://github.com/schorschinho/osprey)[![Visualization](/assets/img/SpecVis.png)](https://github.com/HJZollner/SpecVis)

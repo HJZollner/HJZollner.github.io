@@ -3,7 +3,7 @@ layout: post
 title:  ISMRM 2022 in London
 date:   2022-05-07 10:00:00 -0500
 thumbnail-img: /assets/img/ismrm.jpg
-tags: [LCM, Osprey, MRS, ISMRM]
+tags: [LCM, Osprey, SpecVis, MRS, ISMRM]
 ---
 
 Finally in-person ISMRM again. Come by one of my digital posters about the impact of measured MM background signals on the quantification of short-TE MRS and GABA-edited MRS. Or learn about the impacto fo retrospective motion-compensation on GABA-edited multi-slice MRSI.

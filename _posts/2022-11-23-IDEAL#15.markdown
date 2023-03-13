@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Image downsampling expedited adaptive least-squares (IDEAL) fitting improves intravoxel incoherent motion (IVIM) analysis in the human kidney
+date:   2022-11-23 10:00:00 -0500
+tags: [IDEAL, kidney, DWI, SpecVis]
+---
+
+New work from Julia Stabinska about the novel IDEAL alogrithm applied in IVIM model parameter estimation in kidney DWI. The proposed method is less usceptible to poor SNR and has the potetnial to improve reliability of IVIM-DWI-MRI in the kidney.
+
+#### Links
+[![Paper](/assets/img/doi.png)](https://doi.org/10.1002/mrm.29517)[![Code](/assets/img/OSF.png)](https://doi.org/10.17605/OSF.IO/7DXNM)[![Analysis](/assets/img/avatar-icon.png)](https://github.com/stabinska/IDEAL)[![Visualization](/assets/img/SpecVis.png)](https://github.com/HJZollner/SpecVis)

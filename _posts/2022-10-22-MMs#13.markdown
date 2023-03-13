@@ -1,12 +1,18 @@
 ---
 layout: post
-title:  Impact of gradient scheme and non-linear shimming on out-of-voxel echo artifacts in edited MRS
+title:  Feasibility and implications of using subject-specific macromolecular spectra to model short echo time magnetic resonance spectroscopy data
 date:   2022-10-22 10:00:00 -0500
-thumbnail-img: /assets/img/MRSCloud.png
-tags: [LCM, MRS]
+thumbnail-img: /assets/img/MMExp.png
+tags: [LCM, MRS, MM, gLCM, Osprey, SpecVis]
 ---
 
-Do you have out-of-volume artifacts in your edited-MRS scans? My colleague Yulu Song compared the performance of different gradient-schemes to reduce OOV issues in GABA-GSH-edited HERMES data.
+Happy to announce my new paper in [NMR in Biomedicine](https://doi.org/10.1002/nbm.4854) on the feasibility and implications of subjects-specififc macromolecular spectra. Inclusion of a single high SNR MM basis function leads to lower model residuals and AIC values compared to all other MM strategies.
+
+Another exciting aspect of this work is the integration of multiple LCM analyses into a single statistical model potenitally allows to identify the robustness in the detection fo underlying effects (e.g., metabolite vs. age), reduces algorithm-based bias, and estiamtes alogithm-related variance.
+
+All results and code are available on [OSF](https://doi.org/10.17605/OSF.IO/7DXNM). The data can be found on [NITRC](https://www.nitrc.org/projects/mm_mrs/).
+
+All methods are implemented in Osprey and are free to use for your own study!
 
 #### Links
-[![Paper](/assets/img/doi.png)](https://doi.org/10.1002/nbm.4839)
+[![Paper](/assets/img/doi.png)](https://doi.org/10.1002/nbm.4854)[![Code](/assets/img/OSF.png)](https://doi.org/10.17605/OSF.IO/7DXNM)[![Analysis](/assets/img/Osprey.png)](https://github.com/schorschinho/osprey) [![Visualization](/assets/img/SpecVis.png)](https://github.com/HJZollner/SpecVis)
