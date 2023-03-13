@@ -2,7 +2,6 @@
 layout: post
 title:  Impact of gradient scheme and non-linear shimming on out-of-voxel echo artifacts in edited MRS
 date:   2022-10-22 10:00:00 -0500
-thumbnail-img: /assets/img/MRSCloud.png
 tags: [LCM, MRS, Osprey]
 ---
 
