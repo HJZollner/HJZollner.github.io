@@ -13,7 +13,7 @@ A summary of my latest research.
 
 - Hupfeld KE, Zöllner HJ, Hui SCN, et al. Impact of acquisition and modeling parameters on the test–retest reproducibility of edited GABA+. [NMR in Biomedicine](https://doi.org/10.1002/nbm.5076)
 
--Saleh MG, Prescot A, Chang L, et al. Glutamate measurements using edited MRS. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29929)
+- Saleh MG, Prescot A, Chang L, et al. Glutamate measurements using edited MRS. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29929)
 
 - Hui SCN, Zöllner HJ, Gong T, et al. sLASER and PRESS perform similarly at revealing metabolite-age correlations at 3 T. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29895)
 
