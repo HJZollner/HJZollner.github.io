@@ -5,16 +5,24 @@ title: Research
 A summary of my latest research.
 
 # Current Preprints
-- Hupfeld KE, Zöllner HJ, Hui SCN, et al. Impact of acquisition and modeling parameters on test-retest reproducibility of edited GABA+. [bioRxiv](https://doi.org/10.1101/2023.01.20.524952)
-
-- Hui SCN, Gong T, Zöllner HJ, et al. sLASER and PRESS Perform Similarly at Revealing Metabolite-Age Correlations. [bioRxiv](https://doi.org/10.1101/2023.01.18.524597)
-
-- Zöllner HJ, Jenkins CW, Lee EG, et al. Continuous automated MRS data analysis workflow for applied studies. [bioRxiv](https://doi.org/10.1101/2022.11.03.515056)
-
-- Naaijen J, Arenella M, Zöllner HJ, et al. Variation in glutamate and GABA genes and their association with brain structure and chemistry in autism. [bioRxiv]](https://doi.org/10.1101/2022.05.25.493390)
+- 1. Zöllner HJ, Davies-Jenkins C, Simicic D, Tal A, Sulam J, Oeltzschner G. Simultaneous multi-transient linear-combination modeling of MRS data improves uncertainty estimation. [bioRxiv](https://doi.org/10.1101/2023.11.01.565164)
 
 # Articles
+### 2024
+- Song Y, Hupfeld KE, Davies-Jenkins CW, et al. Brain glutathione and GABA+ levels in autistic children. [Autism Research](https://doi.org/10.1002/aur.3097)
+
+- Hupfeld KE, Zöllner HJ, Hui SCN, et al. Impact of acquisition and modeling parameters on the test–retest reproducibility of edited GABA+. [NMR in Biomedicine](https://doi.org/10.1002/nbm.5076)
+
+-Saleh MG, Prescot A, Chang L, et al. Glutamate measurements using edited MRS. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29929)
+
+- Hui SCN, Zöllner HJ, Gong T, et al. sLASER and PRESS perform similarly at revealing metabolite-age correlations at 3 T. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29895)
+
 ### 2023
+- Mawla I, Huang Z, Kaplan CM, et al. Large-scale momentary brain co-activation patterns are associated with hyperalgesia and mediate focal neurochemistry and cross-network functional connectivity in fibromyalgia. [Pain](https://doi.org/10.1097/j.pain.0000000000002973)
+
+- Zöllner HJ, Davies-Jenkins CW, Lee EG, et al. Continuous Automated Analysis Workflow for MRS Studies. [J Med Syst](https://doi.org/10.1007/s10916-023-01969-6)
+
+- Gudmundson AT, Davies-Jenkins CW, Özdemir İ, Murali-Manohar S, Zöllner HJ  et al. Application of a 1H brain MRS benchmark dataset to deep learning for out-of-voxel artifacts. [Imaging Neuroscience](https://doi.org/10.1162/imag_a_00025)
 
 - Zöllner HJ, Thiel TA, Füllenbach ND, et al. J-difference GABA-edited MRS reveals altered cerebello-thalamo-cortical metabolism in patients with hepatic encephalopathy. [Metablic Brain Disease](https://doi.org/10.1007/s11011-023-01174-x)
 
@@ -26,15 +34,17 @@ A summary of my latest research.
 
 - Hupfeld KE, Zöllner HJ, Oeltzschner G, et al. Brain total creatine differs between primary progressive aphasia (PPA) subtypes and correlates with disease severity. [Neurobiology of Aging](https://doi.org/10.1016/j.neurobiolaging.2022.11.006)
 
+- Song Y, Zöllner HJ, Hui SCN, Hupfeld KE, Oeltzschner G, Edden RAE. Impact of gradient scheme and non-linear shimming on out-of-voxel echo artifacts in edited MRS. [NMR in Biomedicine](https://doi.org/10.1002/nbm.4839)
+
 
 ### 2022
 - Gong T, Hui SCN, Zöllner HJ, et al. Neurometabolic timecourse of healthy aging. [NeuroImage](https://doi.org/10.1016/j.neuroimage.2022.119740)
 
-- Song Y, Zöllner HJ, Hui SCN, Hupfeld KE, Oeltzschner G, Edden RAE. Impact of gradient scheme and non-linear shimming on out-of-voxel echo artifacts in edited MRS. [NMR in Biomedicine](https://doi.org/10.1002/nbm.4839)
-
 - Hui SCN, Saleh MG, Zöllner HJ, et al. MRSCloud: A cloud-based MRS tool for basis set simulation. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29370)
 
 - Song Y, Zöllner HJ, Hui SCN, et al. Importance of Linear Combination Modeling for Quantification of Glutathione and γ-Aminobutyric Acid Levels Using Hadamard-Edited Magnetic Resonance Spectroscopy. [Frontiers in Psychiatry](https://www.frontiersin.org/articles/10.3389/fpsyt.2022.872403)
+
+- Hui SCN, Gong T, Zöllner HJ, Song Y, Murali-Manohar S, Oeltzschner G, Mikkelsen M, Tapper S, Chen Y, Saleh MG, Porges EC, Chen W, Wang G, Edden RAE. The macromolecular MR spectrum does not change with healthy aging. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29093)
 
 - Song Y, Lally PJ, Yanez Lopez M, Oeltzschner G, Nebel MB, Gagoski B, Kecskemeti S, Hui SCN, Zöllner HJ, Shukla D, Arichi T, De Vita E, Yedavalli V, Thayyil S, Fallin D, Dean DC 3rd, Grant PE, Wisnowski JL, Edden RAE. Edited magnetic resonance spectroscopy in the neonatal brain. [Neuroradiology](https://doi.org/10.1007/s00234-021-02821-9)
 
@@ -47,8 +57,6 @@ A summary of my latest research.
 - Hui SCN, Zöllner HJ, Oeltzschner G, Edden RAE, Saleh MG. In vivo spectral editing of phosphorylethanolamine. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.28976)
 
 ### 2021
-- Hui SCN, Gong T, Zöllner HJ, Song Y, Murali-Manohar S, Oeltzschner G, Mikkelsen M, Tapper S, Chen Y, Saleh MG, Porges EC, Chen W, Wang G, Edden RAE. The macromolecular MR spectrum does not change with healthy aging. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29093).
-
 - Hui SCN, Mikkelsen M, Zöllner HJ, Ahluwalia V, Alcauter S, Baltusis L, Barany DA, Barlow LR, Becker R, Berman JI, Berrington A, Bhattacharyya PK, Blicher JU, Bogner W, Brown MS, Calhoun VD, Castillo R, Cecil KM, Choi YB, Chu WCW, Clarke WT, Craven AR, Cuypers K, Dacko M, de la Fuente-Sandoval C, Desmond P, Domagalik A, Dumont J, Duncan NW, Dydak U, Dyke K, Edmondson DA, Ende G, Ersland L, Evans CJ, Fermin ASR, Ferretti A, Fillmer A, Gong T, Greenhouse I, Grist JT, Gu M, Harris AD, Hat K, Heba S, Heckova E, Hegarty JP 2nd, Heise KF, Honda S, Jacobson A, Jansen JFA, Jenkins CW, Johnston SJ, Juchem C, Kangarlu A, Kerr AB, Landheer K, Lange T, Lee P, Levendovszky SR, Limperopoulos C, Liu F, Lloyd W, Lythgoe DJ, Machizawa MG, MacMillan EL, Maddock RJ, Manzhurtsev AV, Martinez-Gudino ML, Miller JJ, Mirzakhanian H, Moreno-Ortega M, Mullins PG, Nakajima S, Near J, Noeske R, Nordhøy W, Oeltzschner G, Osorio-Duran R, Otaduy MCG, Pasaye EH, Peeters R, Peltier SJ, Pilatus U, Polomac N, Porges EC, Pradhan S, Prisciandaro JJ, Puts NA, Rae CD, Reyes-Madrigal F, Roberts TPL, Robertson CE, Rosenberg JT, Rotaru DG, O'Gorman Tuura RL, Saleh MG, Sandberg K, Sangill R, Schembri K, Schrantee A, Semenova NA, Singel D, Sitnikov R, Smith J, Song Y, Stark C, Stoffers D, Swinnen SP, Tain R, Tanase C, Tapper S, Tegenthoff M, Thiel T, Thioux M, Truong P, van Dijk P, Vella N, Vidyasagar R, Vovk A, Wang G, Westlye LT, Wilbur TK, Willoughby WR, Wilson M, Wittsack HJ, Woods AJ, Wu YC, Xu J, Lopez MY, Yeung DKW, Zhao Q, Zhou X, Zupan G, Edden RAE. Frequency drift in MR spectroscopy at 3T. [Neuroimage](https://doi.org/10.1016/j.neuroimage.2021.118430)
 
 - I. Mawla, E. Ichesco, H. J. Zöllner, R. A. E. Edden, T. Chenevert, H. Buchtel, M. D. Bretz, H. Sloan, C. M. Kaplan, S. E. Harte, G. A. Mashour, D. J. Clauw, V. Napadow, and R. E. Harris. Greater Somatosensory Afference with Acupuncture Increases Primary Somatosensory Connectivity and Alleviates Fibromyalgia Pain via Insular GABA: A Randomized Neuroimaging Trial. [Arthritis & Rheumatology](https://onlinelibrary.wiley.com/doi/pdf/10.1002/art.41620)
@@ -59,13 +67,12 @@ A summary of my latest research.
 
 - S. Tapper, M. Mikkelsen, B. E. Dewey, H. J. Zöllner, S. C. N. Hui, G. Oeltzschner, and R. A. E. Edden. Frequency and phase correction of J-difference edited MR spectra using deep learning. [Magnetic Resonance in Medicine](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrm.28525)
 
-### 2020
-
 - H. J. Zöllner, G. Oeltzschner, A. Schnitzler, and H.-J. Wittsack. In silico GABA+ MEGA-PRESS: Effects of signal-to-noise ratio and linewidth on modeling the 3 ppm GABA+ resonance. [NMR in Biomedicine](https://onlinelibrary.wiley.com/doi/pdf/10.1002/nbm.4410)
 
-- S. D. Pizzi, R. Franciotti, A. Ferretti, R. A. E. Edden, H. J. Zöllner, R. Esposito, G. Bubbico, C. Aiello, F. Calvanese, S. L. Sensi, A. Tartaro, M. Onofrj, and L. Bonanni. High -Aminobutyric Acid Content Within the Medial Prefrontal Cortex Is a Functional Signature of Somatic Symptoms Disorder in Patients With Parkinson’s Disease. [Movement Disorders](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mds.28221)
+### 2020
+- S. D. Pizzi, R. Franciotti, A. Ferretti, R. A. E. Edden, H. J. Zöllner, R. Esposito, G. Bubbico, C. Aiello, F. Calvanese, S. L. Sensi, A. Tartaro, M. Onofrj, and L. Bonanni. High Gamma-Aminobutyric Acid Content Within the Medial Prefrontal Cortex Is a Functional Signature of Somatic Symptoms Disorder in Patients With Parkinson’s Disease. [Movement Disorders](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mds.28221)
 
-- G. Oeltzschner, H. J. Zöllner, S. C. N. Hui, M. Mikkelsen, M. G. Saleh, S. Tapper, and R. A. E. Edden. Osprey: Open-sourc processing, reconstruction & estimation of magnetic resonance spectroscopy data. [Journal of Neuroscience Methods](https://doi.org/10.1016/j.jneumeth.2020.108827)
+- G. Oeltzschner, H. J. Zöllner, S. C. N. Hui, M. Mikkelsen, M. G. Saleh, S. Tapper, and R. A. E. Edden. Osprey: Open-source processing, reconstruction & estimation of magnetic resonance spectroscopy data. [Journal of Neuroscience Methods](https://doi.org/10.1016/j.jneumeth.2020.108827)
 
 - M. Povazan, M. Mikkelsen, A. Berrington, P. K. Bhattacharyya, M. K. Brix, P. F. Buur, K. M. Cecil, K. L. Chan, D. Y. Chen, A. R. Craven, K. Cuypers, M. Dacko, N. W. Duncan, U. Dydak, D. A. Edmondson, G. Ende, L. Ersland, M. A. Forbes, F. Gao, I. Greenhouse, A. D. Harris, N. He, S. Heba, N. Hoggard, T.-W. Hsu, J. F. A. Jansen, A. Kangarlu, T. Lange, R. M. Lebel, Y. Li, C.-Y. E. Lin, J.-K. Liou, J.-F. Lirng, F. Liu, J. R. Long, R. Ma, C. Maes, M. Moreno-Ortega, S. O. Murray, S. Noah, R. Noeske, M. D. Noseworthy, G. Oeltzschner, E. C. Porges, J. J. Prisciandaro, N. A. J. Puts, T. P. L. Roberts, M. Sack, N. Sailasuta, M. G. Saleh, M.-P. Schallmo, N. Simard, D. Stoffers, S. P. Swinnen, M. Tegenthoff, P. Truong, G. Wang, I. D. Wilkinson, H.-J. Wittsack, A. J. Woods, H. Xu, F. Yan, C. Zhang, V. Zipun nikov, H. J. Zöllner, R. A. Edden, and P. B. Barker. Comparison of Multivendor Single-Voxel MR Spectroscopy Data Acquired in Healthy Brain at 26 Sites. [Radiology](https://doi.org/10.1148/radiol.2020191037)
 
