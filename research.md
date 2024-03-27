@@ -22,9 +22,9 @@ A summary of my latest research.
 
 - Zöllner HJ, Davies-Jenkins CW, Murali-Manohar S, et al. Feasibility and implications of using subject-specific macromolecular spectra to model short-TE MRS data. [NMR in Biomedicine](https://doi.org/10.1002/nbm.4854)
 
--Stabinska J, Zöllner HJ, Thiel TA, Wittsack HJ, Ljimani A. Image downsampling expedited adaptive least-squares (IDEAL) fitting improves intravoxel incoherent motion (IVIM) analysis in the human kidney. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29517)
+- Stabinska J, Zöllner HJ, Thiel TA, Wittsack HJ, Ljimani A. Image downsampling expedited adaptive least-squares (IDEAL) fitting improves intravoxel incoherent motion (IVIM) analysis in the human kidney. [Magnetic Resonance in Medicine](https://doi.org/10.1002/mrm.29517)
 
--Hupfeld KE, Zöllner HJ, Oeltzschner G, et al. Brain total creatine differs between primary progressive aphasia (PPA) subtypes and correlates with disease severity. [Neurobiology of Aging](https://doi.org/10.1016/j.neurobiolaging.2022.11.006)
+- Hupfeld KE, Zöllner HJ, Oeltzschner G, et al. Brain total creatine differs between primary progressive aphasia (PPA) subtypes and correlates with disease severity. [Neurobiology of Aging](https://doi.org/10.1016/j.neurobiolaging.2022.11.006)
 
 
 ### 2022
