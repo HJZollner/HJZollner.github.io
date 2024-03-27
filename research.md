@@ -5,7 +5,7 @@ title: Research
 A summary of my latest research.
 
 # Current Preprints
-- 1. Zöllner HJ, Davies-Jenkins C, Simicic D, Tal A, Sulam J, Oeltzschner G. Simultaneous multi-transient linear-combination modeling of MRS data improves uncertainty estimation. [bioRxiv](https://doi.org/10.1101/2023.11.01.565164)
+- Zöllner HJ, Davies-Jenkins C, Simicic D, Tal A, Sulam J, Oeltzschner G. Simultaneous multi-transient linear-combination modeling of MRS data improves uncertainty estimation. [bioRxiv](https://doi.org/10.1101/2023.11.01.565164)
 
 # Articles
 ### 2024
