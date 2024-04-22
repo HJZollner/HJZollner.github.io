@@ -16,7 +16,7 @@ Recently, I received a [NIA K99 Career Development Grant](https://reporter.nih.g
 When I'm not coding, I'm an outspoken podcast- and coffee-junkie. Pre-pandemic activities included visiting concerts and festivals with friends and occasional rock climbing, recently replaced with increasing passion for cooking.
 
 # CV
-Download [CV](https://drive.google.com/open?id=1411VDhEWN-IOFpLgVhyqR_pcSzFLN2wD&usp=drive_fs)
+Download [CV](https://drive.google.com/file/d/141dFQthymnH7ZdAc28xsOPpf13vSe4Be/view?usp=sharing)
 
 
 This is the base Jekyll theme:
